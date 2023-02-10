@@ -1,6 +1,8 @@
 # Course-Registration-System
 A course registration system that allowed students to sign up and register for courses.
+
 Demo
+
 The student need to login to view the course informations.
 ![1](https://user-images.githubusercontent.com/98793421/218206413-be790fbe-18da-4674-805b-55d286767cb5.jpg)
 ![2](https://user-images.githubusercontent.com/98793421/218206416-d6fdd66f-a99e-443d-b9a4-5071ef0410c9.jpg)
